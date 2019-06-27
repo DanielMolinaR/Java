@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroupUsuario">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroupTablero">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace pref="87" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="CartaMaquina4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="CartaMaquina5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="CartaMaquina6" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="293" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="CartaUsuario1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="CartaUsuario2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="CartaUsuario3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="CartaUsuario4" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="CartaTablero20" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="CartaTablero21" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="CartaTablero22" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="CartaMaquina1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="CartaMaquina2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="CartaMaquina3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Component id="CartaTablero10" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="CartaTablero11" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" attributes="0">
+                                              <Component id="CartaTablero00" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="CartaTablero01" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Component id="CartaTablero12" min="-2" max="-2" attributes="0"/>
+                                          <Component id="CartaTablero02" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="CartaTablero13" min="-2" max="-2" attributes="0"/>
+                          <Component id="CartaTablero23" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="CartaUsuario5" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="CartaUsuario6" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="CartaTablero03" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="276" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="20" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="CartaMaquina5" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="CartaMaquina6" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="CartaMaquina3" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="CartaMaquina4" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="CartaMaquina2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="CartaMaquina1" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="CartaUsuario6" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="CartaUsuario1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="CartaTablero03" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="CartaTablero13" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="CartaTablero00" min="-2" max="-2" attributes="0"/>
+                                  <Component id="CartaTablero01" min="-2" max="-2" attributes="0"/>
+                                  <Component id="CartaTablero02" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="CartaTablero12" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="CartaTablero11" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="CartaTablero10" alignment="1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="CartaTablero23" min="-2" max="-2" attributes="0"/>
+                          <Component id="CartaTablero22" min="-2" max="-2" attributes="0"/>
+                          <Component id="CartaTablero21" min="-2" max="-2" attributes="0"/>
+                          <Component id="CartaTablero20" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="CartaUsuario5" min="-2" max="-2" attributes="0"/>
+                          <Component id="CartaUsuario4" min="-2" max="-2" attributes="0"/>
+                          <Component id="CartaUsuario3" min="-2" max="-2" attributes="0"/>
+                          <Component id="CartaUsuario2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaMaquina3">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaMaquina4">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaMaquina2">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaMaquina1">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaMaquina5">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero02">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero01">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero00">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaMaquina6">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero03">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero10">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero11">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero20">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero13">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero12">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero21">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero23">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaTablero22">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaUsuario6">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaUsuario5">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaUsuario1">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaUsuario3">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaUsuario4">
+    </Component>
+    <Component class="interfaz.usuario.VistaCarta" name="CartaUsuario2">
+    </Component>
+  </SubComponents>
+</Form>
